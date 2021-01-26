@@ -1,4 +1,4 @@
-# Hello, welcome to my project! 
+# Hello World, welcome to my project! 
 
 ### The code accomplishes the following:
 
