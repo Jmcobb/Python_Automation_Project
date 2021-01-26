@@ -11,7 +11,9 @@ We must be able to:
 
 ### What is going on here?
 
- So, this is a fun automated way to spin up a Linux AWS Instance without using any outside
- products like Asible or something like Terraform. 
+ So, this is a fun object oriented and automated way to spin up a Linux AWS Instance without using any outside products like Asible or something like Terraform. 
+
+### How do I run? 
+
 
  
