@@ -14,3 +14,5 @@ Running the program will be super easy!
 by running `python3 --version`; I used `Python 3.9.1` to build this project. If you need help downloading python 3 here is a link to the documentation to help you do that. -> https://www.python.org/downloads/
 
 3. After cloning, navigating, and Python3 verification you will only need to run the following command in your terminal: `python3 main.py`( This will run the main script, surprise!) and follow the directions/prompts that the program supplies. 
+
+### Have fun! 
