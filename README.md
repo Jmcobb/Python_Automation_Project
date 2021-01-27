@@ -1,12 +1,12 @@
 # Hello World, welcome to my project! 
 
-### What is going on here?
+## What is going on here?
 So, this is a fun automated way to spin up a Linux AWS Instance or really any infrastructure without using any outside products like Asible or something like Terraform. 
 
-### How do I run? 
+# How do I run? 
 Running the program will be super easy!
 
-# All you the user needs to do is the following things: 
+## All you the user needs to do is the following things: 
 
 1. Clone this repo and bring it down to your local machine amd navigate to the folder where ever you decide to do so. If you do not know how to clone a repo down to your machine here is a helpful video to do so and how to navigate to the folder. -> https://www.youtube.com/watch?v=CKcqniGu3tA
 
