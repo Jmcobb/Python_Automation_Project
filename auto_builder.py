@@ -8,10 +8,10 @@ def create_instance():
     print('Creating instance...')  
         
 def destroy_instance():
-    print('Destroying instances, don\'t you just feel clean...?' ) 
+    print('Destroying instances...' ) 
      
 def create_user():
     print('Creating users...')
         
 def destroy_user(): 
-    print('Destroying users, all clean!')
+    print('Destroying users...')

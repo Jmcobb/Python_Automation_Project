@@ -1,15 +1,24 @@
-# Here is to show my logic skills w/ python! 
+# This module is to show my logic skills w/ python! 
 
-# Also, here is an example of good practice which results in 
-# cleaner code by having a module containing this python functions.
+# Also, th file is an example of good practice which results in 
+# cleaner code by having a module containing this python functions 
+# separate from main.
+
+# Most if not all of the functions below are pretty self explanatory.
+# However, they all follow a common pattern.
+# That pattern is making the dev experience better, in my exposure to DevOps/SRE the 
+# quicker/easier we can make it for devs the better quality product you are 
+# able to produce as an Org.
+
+# However, I would love to take feedback on any way I could improve.
+
 import time
 import auto_builder
-
 
 def nl(): 
     time.sleep(1.5)
     print('\n')
-    
+  
 def verify_task():
     nl()
     print('Were you able to verify the task? y/n')
@@ -38,8 +47,6 @@ def yes_or_no():
         print('That does not seem like an option to me... Try again!')
         nl()
         yes_or_no() 
-
-# I hope whoever grades this laugh as much as I did. 
 
 def create_vm(): 
     print('Time to create a VM based on the YAML provided.')
